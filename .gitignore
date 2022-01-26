@@ -1,1 +1,3 @@
-Altavoces.rvt
+*.rvt
+Nueva carpeta/*.xlsx
+!datos.xlsx
